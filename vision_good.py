@@ -1,3 +1,4 @@
+#우리는 깃을 사용합니다
 import cv2
 cap = cv2.VideoCapture("lion.mp4")
 
